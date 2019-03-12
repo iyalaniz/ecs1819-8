@@ -4,6 +4,27 @@
 #fam2 {font-family: 
     'Source Code Pro', monospace;
 }
-#fam3 {
+#fam3 {font-family: 
+    'Source Code Pro', monospace;
     
+}
+img { display: block;
+  margin-left: auto;
+  margin-right: auto;}
+  table, th, td {
+  border: 2px solid pink;
+}
+table {
+    text-align:center;
+}
+#drum { width:400px;
+height:250px;
+}
+#dad {
+    width:400px;
+    height:250px;
+}
+#fam18 {
+    width:400px;
+    height: 250px;
 }

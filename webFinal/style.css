@@ -28,3 +28,48 @@ height:250px;
     width:400px;
     height: 250px;
 }
+#jumbo {
+    background: linear-gradient(to bottom, #ffffff 0%, #ff99cc 100%);
+}
+#fam3{
+    background: linear-gradient(to bottom, #cc99ff 0%, #ff99cc 100%);
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #F2F2F2;
+   color: black;
+   text-align: center;
+}
+#me {
+    font-family: 
+    'Source Code Pro', monospace;
+}
+#button1 {
+  background-color: #C7EA; 
+  border:none ;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius:15px;
+  font-family: 
+    'Source Code Pro', monospace;
+}
+#button2 {
+  background-color: #C7EA; 
+  border:none ;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius:15px;
+  font-family: 
+    'Source Code Pro', monospace;
+}

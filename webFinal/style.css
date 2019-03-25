@@ -31,6 +31,7 @@ height:250px;
 #jumbo {
     background: linear-gradient(to bottom, #ffffff 0%, #ff99cc 100%);
 }
+
 #fam3{
     background: linear-gradient(to bottom, #cc99ff 0%, #ff99cc 100%);
 }
@@ -72,4 +73,74 @@ height:250px;
   border-radius:15px;
   font-family: 
     'Source Code Pro', monospace;
+}
+/*#card1 {*/
+/*    font-family: */
+/*    'Source Code Pro', monospace;*/
+/*}*/
+/*#card2 {*/
+/*    font-family: */
+/*    'Source Code Pro', monospace;*/
+/*}*/
+/*#card3 {*/
+/*    font-family: */
+/*    'Source Code Pro', monospace;*/
+
+/*}*/
+
+
+
+#tw1 {
+    font-family: 
+    'Source Code Pro', monospace;
+}
+#tw2 {
+    font-family: 
+    'Source Code Pro', monospace;
+}
+#tw3 {
+    font-family: 
+    'Source Code Pro', monospace;
+}
+#tw4 {
+    font-family: 
+    'Source Code Pro', monospace;
+}
+#tw5 {
+    font-family: 
+    'Source Code Pro', monospace;
+}
+#tw6 {
+    font-family: 
+    'Source Code Pro', monospace;
+}
+#tw7 {
+    font-family: 
+    'Source Code Pro', monospace;
+}
+#tw8 {
+    font-family: 
+    'Source Code Pro', monospace;
+}
+p{
+        font-family: 
+    'Source Code Pro', monospace;
+}
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  padding: 10px;
+}
+h4 {
+    font-family: 
+    'Source Code Pro', monospace;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#expla1 {
+     background: linear-gradient(to bottom, #cc99ff 0%, #ff99cc 100%);
 }

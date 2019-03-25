@@ -121,10 +121,7 @@ height:250px;
 #tw8 {
     font-family: 
     'Source Code Pro', monospace;
-}
-p{
-        font-family: 
-    'Source Code Pro', monospace;
+
 }
 .card {
   /* Add shadows to create the "card" effect */
@@ -143,4 +140,7 @@ img {
 }
 #expla1 {
      background: linear-gradient(to bottom, #cc99ff 0%, #ff99cc 100%);
+}
+#card{
+        font-family: 'Source Code Pro', monospace;
 }
